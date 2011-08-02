@@ -29,6 +29,7 @@
         <item>"Nicolas 'plusminus' Gramlich"</item>
         <item>Steven Osborn</item>
         <item>"Michael 'EboMike' Krehan"</item>
+        <item>John Doe</item>
     </string-array>
     
     <string-array name="about_documenters"><!-- Add your name here if you helped out -->
@@ -41,26 +42,13 @@
     
     <string-array name="about_artists"><!-- Add your name here if you helped out -->
         <item>Peli</item>
+        <item>Androidicons www.androidicons.com</item>
     </string-array>
     
 	<!-- ***************************
 	     Preferences
 	     *************************** -->
-	<!-- ***************************
-	     About information
-	     *************************** -->
-	
-    
-    <string-array name="about_documenters"><!-- Add your name here if you helped out -->
-        <!-- <item></item> -->
-    </string-array>
-    
-    <string-array name="about_translators"><!-- Add your name here if you helped out, but only in the arrays.xml for the localization that you helped to translate into! -->
-        <!-- <item></item>  -->
-    </string-array>
-    
-    
-	
+
 	<!-- ***************************
 	     Distribution
 	     *************************** -->
@@ -78,6 +66,5 @@
 	
 	<!-- Safe -->
     <string name="oi_distribution_safe_package">org.openintents.safe</string>
-    <string name="oi_distribution_safe_website">http://www.openintents.org/en/safe</string>
-	
+    <string name="oi_distribution_safe_website">http://www.openintents.org/en/safe</string>	
 </resources> 
