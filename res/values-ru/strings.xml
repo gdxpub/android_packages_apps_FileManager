@@ -92,8 +92,8 @@
     <string name="error_copying_file">Невозможно скопировать файл.</string>
     <string name="error_file_does_not_exists">Файл не существует.</string>
     <string name="error_deleting_child_file">Невозможно удалить вложенный файл \'%s\'.</string>
-    <string name="error_generic">An error occurred: </string>
-    <string name="error_media_scan">Could not change media scan settings.</string>
+    <string name="error_generic">Ошибка: </string>
+    <string name="error_media_scan">Невозможно изменить настройки медиа-сканирования</string>
     
     <string name="send_not_available">Нет приложения для отправки.</string>
     
